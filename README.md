@@ -4,7 +4,7 @@
 Bomb evade is a simple 2D Unity game where the player has to evade bombs that continuously fall from the sky.
 
 
-##Gameplay
+## Gameplay
 
 Main menu from the game with two options: either the 'Play' button, which triggers and starts the game, or the 'Quit' button, which shuts down the game.
 
